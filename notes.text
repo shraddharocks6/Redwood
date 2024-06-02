@@ -1,1 +1,7 @@
 Genesis Block => Very first block of a Blockchain
+
+AccountModel Class :
+-> Initializer
+-> Adding Accounts
+-> Updating Balances
+-> Retriving Balances
