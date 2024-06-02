@@ -1,5 +1,9 @@
 Genesis Block => Very first block of a Blockchain
 
+Blockchain Class :
+-> Exchange Transation
+-> Execute Transactions
+
 AccountModel Class :
 -> Initializer
 -> Adding Accounts
